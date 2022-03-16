@@ -1,5 +1,11 @@
 # quiz_d_123190024
 
+Nama : Naufal Nur Fahriza
+
+NIM : 123190024
+
+Kelas : Praktikum Teknologi dan Pemrograman Mobile IF-D
+
 A new Flutter project.
 
 ## Getting Started
